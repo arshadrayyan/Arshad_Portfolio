@@ -46,7 +46,7 @@ http-server
 ## Experience Page
 ![Experience Page](/ScreenShots/Experience%20Page.png?raw=true "Experience Page")
 
-## Contact Page
+## Contacts Page
 ![Contacts Page](/ScreenShots/Contacts%20Page.png?raw=true "Contacts Page")
 
 ## Projects Page
